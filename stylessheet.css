@@ -1,1 +1,8 @@
-
+body { 
+  text-align: center; 
+  margin: auto; 
+  width: 100%; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  background-size: 100% 100%; 
+}
